@@ -10,7 +10,7 @@
     <li><strong>Circular Doubly Linked List</strong>: All memories are stored in a circular doubly linked list for efficient retrieval and organization.</li>
   </ul>
 
-  ##Sign In & Sign Up  
+  <h2>Sign In & Sign Up</h2>  
   <br>
   <div align="center">
       <img src="Screenshots/signIn_SS.png" alt="Sign In screen" width="200" />
