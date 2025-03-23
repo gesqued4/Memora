@@ -11,37 +11,38 @@
   </ul>
 
    <h2>📸 Screenshots</h2>
-  <p>Here's a glimpse of how the app works:</p>
+  <p>Here's a glimpse of how the app works</p>
+
+  <br>
 
   <!-- Sign In and sign Up Screenshot -->
   <figure>
     <div align="center">
+      <figcaption>Sign In screen where users can log into their account and create a new account.</figcaption>
       <img src="Screenshots/signIn_SS.png" alt="Sign In screen" width="200" />
       <img src="Screenshots/signUp_SS.png" alt="Sign Up screen" width="200" />
     </div>
-    <figcaption>Sign In screen where users can log into their account and create a new account.</figcaption>
   </figure>
 
   <!-- Add Memories Screenshots -->
   <figure>
     <div align="center">
+      <figcaption>Add Memories screen where users can drag and drop images, add titles, descriptions, and emojis by their aliases.</figcaption>
       <img src="Screenshots/addMemories_SS.png" alt="Add Memories screen 1" width="200" />
       <img src="Screenshots/addMemories_SS_2.png" alt="Add Memories screen 2" width="200" />
     </div>
-    <figcaption>Add Memories screen where users can drag and drop images, add titles, descriptions, and emojis by their aliases.</figcaption>
   </figure>
 
-  <!-- Memories Screen (Last 5 Nodes) -->
+  <!-- Memories Screen (Last 5 Nodes) and All Memories -->
   <figure>
-    <img align="center" src="Screenshots/memories_SS.png" alt="Last 5 nodes" width="200" />
-    <figcaption>View the last 5 memories shown as "LIFO" type node and a random suggestion from the list.</figcaption>
+    <div align="center">
+    <figcaption>View the last 5 memories shown as "LIFO" type node and a random suggestion from the list also you can see all the added memories, with options to delete nodes, go to next/previous images, and jump to the beginning/end.</figcaption>
+    <img src="Screenshots/memories_SS.png" alt="Last 5 nodes" width="200" />
+    <img src="Screenshots/allMemories_SS.png" alt="All Memories screen" width="200" />
+    </div>
   </figure>
 
-  <!-- All Memories Screen -->
-  <figure>
-    <img align="center" src="Screenshots/allMemories_SS.png" alt="All Memories screen" width="200" />
-    <figcaption>View all added memories, with options to delete nodes, go to next/previous images, and jump to the beginning/end.</figcaption>
-  </figure>
+  <br>
 
   <h2>🐞 Known Issues</h2>
   <p>Please note, there are a few features that aren't yet fully implemented, but they are not bugs—just missing functionality for now:</p>
