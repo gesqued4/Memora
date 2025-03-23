@@ -10,6 +10,9 @@
     <li><strong>Circular Doubly Linked List</strong>: All memories are stored in a circular doubly linked list for efficient retrieval and organization.</li>
   </ul>
 
+  <h2>📸 Screenshots</h2>
+  <p>Here's a glimpse of how the app works:</p>
+
   <h2>🐞 Known Issues</h2>
   <p>Please note, there are a few features that aren't yet fully implemented, but they are not bugs—just missing functionality for now:</p>
   <ul>
