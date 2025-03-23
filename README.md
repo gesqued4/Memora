@@ -17,8 +17,8 @@
 
   <!-- Sign In and sign Up Screenshot -->
   <figure>
+    <figcaption>Sign In screen where users can log into their account and create a new account.</figcaption>
     <div align="center">
-      <figcaption>Sign In screen where users can log into their account and create a new account.</figcaption>
       <img src="Screenshots/signIn_SS.png" alt="Sign In screen" width="200" />
       <img src="Screenshots/signUp_SS.png" alt="Sign Up screen" width="200" />
     </div>
@@ -26,8 +26,8 @@
 
   <!-- Add Memories Screenshots -->
   <figure>
+    <figcaption>Add Memories screen where users can drag and drop images, add titles, descriptions, and emojis by their aliases.</figcaption>
     <div align="center">
-      <figcaption>Add Memories screen where users can drag and drop images, add titles, descriptions, and emojis by their aliases.</figcaption>
       <img src="Screenshots/addMemories_SS.png" alt="Add Memories screen 1" width="200" />
       <img src="Screenshots/addMemories_SS_2.png" alt="Add Memories screen 2" width="200" />
     </div>
@@ -35,8 +35,8 @@
 
   <!-- Memories Screen (Last 5 Nodes) and All Memories -->
   <figure>
-    <div align="center">
     <figcaption>View the last 5 memories shown as "LIFO" type node and a random suggestion from the list also you can see all the added memories, with options to delete nodes, go to next/previous images, and jump to the beginning/end.</figcaption>
+    <div align="center">
     <img src="Screenshots/memories_SS.png" alt="Last 5 nodes" width="200" />
     <img src="Screenshots/allMemories_SS.png" alt="All Memories screen" width="200" />
     </div>
