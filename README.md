@@ -39,7 +39,7 @@
     <img src="Screenshots/allMemories_SS.png" alt="All Memories screen" width="200" />
   </div>
   <br>
-  <p>View the last 5 memories shown as "LIFO" type node and a random suggestion from the list also you can see all the added memories, with options to delete nodes, go to next/previous images, and jump to the beginning/end.</p>
+  <p>View the last 5 memories shown as "LIFO" and a random suggestion from the list also you can see all the added memories, with options to delete nodes, go to next/previous images, and jump to the beginning/end.</p>
   
   ---
 
