@@ -22,3 +22,9 @@
     <li><strong>DND Package</strong>: For drag-and-drop functionality to add images seamlessly.</li>
     <li><strong>Vincent DURMONT's Emoji Parser</strong>: To turn emoji aliases into actual emojis. <a href="https://github.com/vdurmont/emoji-java">Library link here</a></li>
     <li><strong>Circular Doubly Linked List</strong>: For efficient memory storage
+
+  <h2>🙌 Credits</h2>
+  <ul>
+    <li>Special thanks to <strong>Vincent DURMONT</strong> for the library that makes emoji parsing possible!</li>
+    <li><strong>DND package</strong> for drag-and-drop image functionality.</li>
+  </ul>
