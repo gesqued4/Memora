@@ -18,30 +18,27 @@
   </div>
   <br>
   <p>Sign In screen where users can log into their account and create a new account.</p>
-
   ---
 
-  <!-- Add Memories Screenshots -->
-  <figure>
-    <figcaption>Add Memories screen where users can drag and drop images, add titles, descriptions, and emojis by their aliases.</figcaption>
-    <br>
-    <div align="center">
+  <h2>Add memories</h2>  
+  <br>
+  <div align="center">
       <img src="Screenshots/addMemories_SS.png" alt="Add Memories screen 1" width="200" />
       <img src="Screenshots/addMemories_SS_2.png" alt="Add Memories screen 2" width="200" />
-    </div>
-  </figure>
+  </div>
+  <br>
+  <p>Add Memories screen where users can drag and drop images, add titles, descriptions, and emojis by their aliases.</p>
+  ---
 
-  <!-- Memories Screen (Last 5 Nodes) and All Memories -->
-  <figure>
-    <figcaption>View the last 5 memories shown as "LIFO" type node and a random suggestion from the list also you can see all the added memories, with options to delete nodes, go to next/previous images, and jump to the beginning/end.</figcaption>
-    <br>
-    <div align="center">
+  <h2>Memories & All memories</h2>
+  <br>
+  <div align="center">
     <img src="Screenshots/memories_SS.png" alt="Last 5 nodes" width="200" />
     <img src="Screenshots/allMemories_SS.png" alt="All Memories screen" width="200" />
-    </div>
-  </figure>
-
+  </div>
   <br>
+  <p>View the last 5 memories shown as "LIFO" type node and a random suggestion from the list also you can see all the added memories, with options to delete nodes, go to next/previous images, and jump to the beginning/end.</p>
+  ---
 
   <h2>🐞 Known Issues</h2>
   <p>Please note, there are a few features that aren't yet fully implemented, but they are not bugs—just missing functionality for now:</p>
