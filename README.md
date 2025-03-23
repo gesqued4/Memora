@@ -13,38 +13,33 @@
    <h2>📸 Screenshots</h2>
   <p>Here's a glimpse of how the app works:</p>
 
-  <!-- Sign In Screenshot -->
+  <!-- Sign In and sign Up Screenshot -->
   <figure>
-    <img src="Screenshots/signIn_SS.png" alt="Sign In screen" width="200" />
-    <figcaption>Sign In screen where users can log into their account.</figcaption>
-  </figure>
-
-  <!-- Sign Up Screenshot -->
-  <figure>
-    <img src="Screenshots/signUp_SS.png" alt="Sign Up screen" width="200" />
-    <figcaption>Sign Up screen where users can create a new account.</figcaption>
+    <div align="center">
+      <img src="Screenshots/signIn_SS.png" alt="Sign In screen" width="200" />
+      <img src="Screenshots/signUp_SS.png" alt="Sign Up screen" width="200" />
+    </div>
+    <figcaption>Sign In screen where users can log into their account and create a new account.</figcaption>
   </figure>
 
   <!-- Add Memories Screenshots -->
   <figure>
-    <img src="Screenshots/addMemories_SS.png" alt="Add Memories screen 1" width="200" />
+    <div align="center">
+      <img src="Screenshots/addMemories_SS.png" alt="Add Memories screen 1" width="200" />
+      <img src="Screenshots/addMemories_SS_2.png" alt="Add Memories screen 2" width="200" />
+    </div>
     <figcaption>Add Memories screen where users can drag and drop images, add titles, descriptions, and emojis by their aliases.</figcaption>
-  </figure>
-
-  <figure>
-    <img src="Screenshots/addMemories_SS_2.png" alt="Add Memories screen 2" width="200" />
-    <figcaption>Another view of the Add Memories screen with image drag-and-drop and emoji alias input.</figcaption>
   </figure>
 
   <!-- Memories Screen (Last 5 Nodes) -->
   <figure>
-    <img src="Screenshots/memories_SS.png" alt="Last 5 nodes" width="200" />
-    <figcaption>View the last 5 memories with a "Life" type node and a random suggestion from the list.</figcaption>
+    <img align="center" src="Screenshots/memories_SS.png" alt="Last 5 nodes" width="200" />
+    <figcaption>View the last 5 memories shown as "LIFO" type node and a random suggestion from the list.</figcaption>
   </figure>
 
   <!-- All Memories Screen -->
   <figure>
-    <img src="Screenshots/allMemories_SS.png" alt="All Memories screen" width="200" />
+    <img align="center" src="Screenshots/allMemories_SS.png" alt="All Memories screen" width="200" />
     <figcaption>View all added memories, with options to delete nodes, go to next/previous images, and jump to the beginning/end.</figcaption>
   </figure>
 
