@@ -15,36 +15,36 @@
 
   <!-- Sign In Screenshot -->
   <figure>
-    <img src="screenshots/signIn_SS.png" alt="Sign In screen" width="600" />
+    <img src="Screenshots/signIn_SS.png" alt="Sign In screen" width="200" />
     <figcaption>Sign In screen where users can log into their account.</figcaption>
   </figure>
 
   <!-- Sign Up Screenshot -->
   <figure>
-    <img src="Screenshots/signUp_SS.png" alt="Sign Up screen" width="600" />
+    <img src="Screenshots/signUp_SS.png" alt="Sign Up screen" width="200" />
     <figcaption>Sign Up screen where users can create a new account.</figcaption>
   </figure>
 
   <!-- Add Memories Screenshots -->
   <figure>
-    <img src="Screenshots/addMemories_SS.png" alt="Add Memories screen 1" width="600" />
+    <img src="Screenshots/addMemories_SS.png" alt="Add Memories screen 1" width="200" />
     <figcaption>Add Memories screen where users can drag and drop images, add titles, descriptions, and emojis by their aliases.</figcaption>
   </figure>
 
   <figure>
-    <img src="Screenshots/addMemories_SS_2.png" alt="Add Memories screen 2" width="600" />
+    <img src="Screenshots/addMemories_SS_2.png" alt="Add Memories screen 2" width="200" />
     <figcaption>Another view of the Add Memories screen with image drag-and-drop and emoji alias input.</figcaption>
   </figure>
 
   <!-- Memories Screen (Last 5 Nodes) -->
   <figure>
-    <img src="Screenshots/memories_SS.png" alt="Last 5 nodes" width="600" />
+    <img src="Screenshots/memories_SS.png" alt="Last 5 nodes" width="200" />
     <figcaption>View the last 5 memories with a "Life" type node and a random suggestion from the list.</figcaption>
   </figure>
 
   <!-- All Memories Screen -->
   <figure>
-    <img src="Screenshots/allMemories_SS.png" alt="All Memories screen" width="600" />
+    <img src="Screenshots/allMemories_SS.png" alt="All Memories screen" width="200" />
     <figcaption>View all added memories, with options to delete nodes, go to next/previous images, and jump to the beginning/end.</figcaption>
   </figure>
 
