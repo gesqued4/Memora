@@ -13,7 +13,7 @@
   <h2>🐞 Known Issues</h2>
   <p>Please note, there are a few features that aren't yet fully implemented, but they are not bugs—just missing functionality for now:</p>
   <ul>
-    <li><strong>User Management</strong>: We currently can't add users, but this feature will be added in the future. The system would allow each user to have their own set of memories stored securely.</li>
+    <li><strong>User Management</strong>: The system would allow each user to have their own set of memories stored securely.</li>
     <li><strong>Memory Filtering</strong>: Right now, all memories from different users are shown. In the future, we plan to filter memories by the user, so you’ll only see your own memories in the app.</li>
   </ul>
 
