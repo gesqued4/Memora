@@ -10,10 +10,7 @@
     <li><strong>Circular Doubly Linked List</strong>: All memories are stored in a circular doubly linked list for efficient retrieval and organization.</li>
   </ul>
 
-   <h2>📸 Screenshots</h2>
-  <p>Here's a glimpse of how the app works</p>
-
-  <!-- Sign In and sign Up Screenshot -->
+   <h2>Sign In & Sign Up</h2>
   <figure>
     <figcaption>Sign In screen where users can log into their account and create a new account.</figcaption>
     <br>
@@ -22,6 +19,8 @@
       <img src="Screenshots/signUp_SS.png" alt="Sign Up screen" width="200" />
     </div>
   </figure>
+
+  ---
 
   <!-- Add Memories Screenshots -->
   <figure>
