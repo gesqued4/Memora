@@ -29,6 +29,7 @@
   </div>
   <br>
   <p>Add Memories screen where users can drag and drop images, add titles, descriptions, and emojis by their aliases.</p>
+  
   ---
 
   <h2>Memories & All memories</h2>
@@ -39,6 +40,7 @@
   </div>
   <br>
   <p>View the last 5 memories shown as "LIFO" type node and a random suggestion from the list also you can see all the added memories, with options to delete nodes, go to next/previous images, and jump to the beginning/end.</p>
+  
   ---
 
   <h2>🐞 Known Issues</h2>
