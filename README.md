@@ -11,10 +11,12 @@
   </ul>
 
   <h2>Sign In & Sign Up</h2>  
+  <br>
   <div align="center">
       <img src="Screenshots/signIn_SS.png" alt="Sign In screen" width="200" />
       <img src="Screenshots/signUp_SS.png" alt="Sign Up screen" width="200" />
   </div>
+  <br>
   <p>Sign In screen where users can log into their account and create a new account.</p>
 
   ---
